@@ -1,4 +1,4 @@
-# *BDMFAL-BC*: Batch Multi-Fidelity Active Learning with Budget Constraints
+# *BMFAL-BC*: Batch Multi-Fidelity Active Learning with Budget Constraints
 
 by [Shibo Li*](https://imshibo.com), [Jeff M. Phillips*](https://www.cs.utah.edu/~jeffp/), [Xin Yu](https://yuxwind.github.io/), [Mike Kirby](https://www.cs.utah.edu/~kirby/) and [Shandian Zhe](https://www.cs.utah.edu/~zhe/)
 
@@ -67,7 +67,7 @@ for  epochs, the testing nRMSE on the target fidelity with respect to the acculu
 
 # License
 
-BatchDMFAL is released under the MIT License, please refer the LICENSE for details
+BMFAL-BC is released under the MIT License, please refer the LICENSE for details
 
 # Getting Involved
 Feel free to submit Github issues or pull requests. Welcome to contribute to our project!
