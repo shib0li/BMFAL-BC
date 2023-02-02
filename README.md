@@ -11,8 +11,8 @@ by [Shibo Li*](https://imshibo.com), [Jeff M. Phillips*](https://www.cs.utah.edu
 <h4 align="center">
     <p>
         <a href="https://openreview.net/forum?id=MNQMy2MpbcO">Paper</a> |
-        <a href="https://github.com/shib0li/BDMFAL-BC/blob/main/images/slides.pdf">Slides</a> |
-        <a href="https://github.com/shib0li/BDMFAL-BC/blob/main/images/poster.pdf">Poster</a> 
+        <a href="https://github.com/shib0li/BMFAL-BC/blob/main/images/slides.pdf">Slides</a> |
+        <a href="https://github.com/shib0li/BMFAL-BC/blob/main/images/poster.pdf">Poster</a> 
     <p>
 </h4>
 
